@@ -1,3 +1,5 @@
 {
-  "origins": ["https://utteranc.es"]
+  "origins": [
+    "https://blog.trosa.io"
+  ]
 }
